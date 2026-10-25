@@ -14,14 +14,15 @@
 <h1 align="center">MOUAD ADDOU</h1>
 
 <p align="center">
-  <strong>Front-end engineer · I build small, fast, local-first web products.</strong><br>
+  <strong>Freelance digital marketer · paid media &amp; performance</strong><br>
+  I turn campaign exports into decisions — and build the small tools that make the numbers obvious.<br>
   Casablanca, Morocco
 </p>
 
 <p align="center">
   <a href="https://mouadaddoux-cpu.github.io/mouad-analytics/"><img alt="Live site" src="https://img.shields.io/badge/live-mouad_analytics-fc0a7e?style=flat-square&labelColor=0d0b17"></a>
-  <a href="https://www.linkedin.com/in/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-connect-7c5cff?style=flat-square&labelColor=0d0b17"></a>
   <a href="mailto:mousaddadoux@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-say_hello-2ee6a8?style=flat-square&labelColor=0d0b17"></a>
+  <img alt="Available for freelance projects" src="https://img.shields.io/badge/status-available_for_freelance-2ee6a8?style=flat-square&labelColor=0d0b17">
 </p>
 
 ---
@@ -33,13 +34,12 @@
     <td width="52%" valign="top">
       <h3>MOUAD — campaign analytics in the browser</h3>
       <p>
-        Drop a CSV exported from Meta, Google, LinkedIn or TikTok and get the five numbers that
-        matter — spend, conversions, CTR, CPC, conversion rate — plus a spend-vs-CTR trend chart
-        and the campaigns that are actually worth scaling.
+        A paid-media dashboard for people who actually run campaigns: drop a CSV exported from
+        Meta, Google, LinkedIn or TikTok and get the five numbers that matter — spend, conversions,
+        CTR, CPC, conversion rate — plus a spend-vs-CTR trend and the campaigns worth scaling.
       </p>
       <p>
-        No backend, no account, no upload: the file is parsed with <code>FileReader</code> and
-        never leaves the tab.
+        No backend and no upload: client budgets never leave the browser.
       </p>
       <p>
         <a href="https://mouadaddoux-cpu.github.io/mouad-analytics/"><strong>Open the dashboard →</strong></a>
@@ -55,6 +55,28 @@
   </tr>
 </table>
 
+
+---
+
+### What I do as a freelancer
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Paid media</h4>
+      <p>Campaign setup, structure and day-to-day management on Meta, Google, TikTok and LinkedIn — budgets that stay accountable to a target CPA, not to vanity reach.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Audits &amp; tracking</h4>
+      <p>Account audits, pixel and conversion-event checks, and the boring hygiene work that quietly decides whether the reporting can be trusted.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Reporting</h4>
+      <p>Weekly reads that fit on one screen — plus MOUAD when a client wants to drop a CSV and see the same numbers themselves, without a login.</p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img alt="Spend $1,827" src="https://img.shields.io/badge/spend-$1,827-fc0a7e?style=flat-square&labelColor=0d0b17">
   <img alt="Conversions 342" src="https://img.shields.io/badge/conversions-342-7c5cff?style=flat-square&labelColor=0d0b17">
@@ -66,12 +88,12 @@
 
 ---
 
-### How I build
+### How I work
 
-- **Local-first.** If a feature can run in the browser, it does. Fewer servers, fewer leaks, instant feedback.
-- **Vanilla by default.** No framework until it earns its weight — MOUAD is plain HTML, CSS and JS with one dependency for charts.
-- **Small surfaces.** One job per page, one obvious action, no settings maze. If a screen needs a tutorial, the screen is wrong.
-- **Honest numbers.** Every metric is recomputed from the raw totals, never averaged from averages.
+- **Local-first.** Client budgets and campaign exports should not travel. If it can run in the browser, it does.
+- **Numbers before opinions.** Every report starts from the raw export, not from a slide someone already wrote.
+- **Small tools.** One job per page, one obvious action — the same discipline I apply to campaign structure.
+- **Honest numbers.** Rates are recomputed from totals, never averaged from averages, and no metric leaves the spreadsheet without a denominator.
 
 ### Toolbox
 
@@ -95,5 +117,5 @@
 ---
 
 <p align="center">
-  <sub>Open to front-end work and product collaborations — <a href="mailto:mousaddadoux@gmail.com">mousaddadoux@gmail.com</a></sub>
+  <sub>Available for freelance projects — paid media, audits and dashboards — <a href="mailto:mousaddadoux@gmail.com">mousaddadoux@gmail.com</a></sub>
 </p>
