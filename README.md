@@ -88,6 +88,32 @@
 
 ---
 
+### Let's connect
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Work with me</h4>
+      <p>Paid media management, account audits, tracking fixes and reporting builds —
+      project or monthly, remote from Casablanca.</p>
+      <p><a href="mailto:mousaddadoux@gmail.com"><strong>mousaddadoux@gmail.com</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Open to</h4>
+      <p>Collaborations with marketers and tool builders · audits and second opinions ·
+      guest notes for newsletters · feedback on marketing/analytics tools.</p>
+      <p>
+        <a href="https://github.com/mouadaddoux-cpu">GitHub</a> ·
+        <a href="https://mouadaddoux-cpu.github.io/mouad-analytics/">Portfolio</a> ·
+        <a href="https://github.com/mouadaddoux-cpu/marketing-notes">Marketing notes</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ### How I work
 
 - **Local-first.** Client budgets and campaign exports should not travel. If it can run in the browser, it does.
